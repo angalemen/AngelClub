@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159243932965",
+    "project_id": "clubescannabicos",
+    "storage_bucket": "clubescannabicos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159243932965:android:743c6fa100b5017b0936cc",
+        "android_client_info": {
+          "package_name": "com.example.clubesvcannabicos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjnpNNrcCJDwscc3NAI6hHXDtZzwFD7mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
